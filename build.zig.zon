@@ -16,8 +16,8 @@
     // internet connectivity.
     .dependencies = .{
         .@"chroma-logger" = .{
-            .url = "/Users/adiadev/Projects/Dev/zig/chroma-logger-zig/",
-            .hash = "12209f34e82f5220b4273f8022d0ca59e259e0c77392592df28108d53f33846d4bc1",
+            .url = "https://github.com/adia-dev/chroma-logger-zig/archive/refs/tags/v0.1.0.tar.gz",
+            .hash = "1220f272d9de22fa5dd7df17a42b9ba1110054b9bbd041e862a998d121f884141f75",
         },
     },
     .paths = .{
